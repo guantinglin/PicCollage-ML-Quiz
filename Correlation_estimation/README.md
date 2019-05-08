@@ -14,6 +14,7 @@ python3 create_datasets.py
 
 Then start training
 ```
+mkdir trained
 python3 train.py
 ```
 
