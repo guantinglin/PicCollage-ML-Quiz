@@ -1,5 +1,5 @@
 # Description 
-This model demonstrated the performance of ShelfNets on the person segmantation tasks
+This model demonstrated the performance of ShelfNets on the people segmantation tasks
 
 # How to run
 ## Setup
