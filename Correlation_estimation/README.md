@@ -2,7 +2,7 @@
 
 ## How to train?
 
-First, prepare the data that needed. You can download it from [here](https://drive.google.com/file/d/1kNgjfb3FF4pnGO__wy0hCgekKgfv5VMa/view) and ][here](https://drive.google.com/file/d/1iUuhI78_8SW9MC6QB9wQeo0kjuAbk6AD/view)
+First, prepare the data that needed. You can download it from [here](https://drive.google.com/file/d/1kNgjfb3FF4pnGO__wy0hCgekKgfv5VMa/view) and [here](https://drive.google.com/file/d/1iUuhI78_8SW9MC6QB9wQeo0kjuAbk6AD/view)
 
 After downloading, run these commands 
 ```
