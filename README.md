@@ -2,6 +2,6 @@
 
 
 This respository contains:
-  Correlation estimation with CNNs for this website: http://guessthecorrelation.com/
+  Correlation estimation with CNNs for [this website](http://guessthecorrelation.com/)
   
-  Semantic segmantation reference from here(https://github.com/juntang-zhuang/ShelfNet)
+  Semantic segmantation reference from [here](https://github.com/juntang-zhuang/ShelfNet)
