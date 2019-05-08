@@ -2,10 +2,15 @@
 
 # Environments
 pytorch 0.4
+
 python 3.5
+
 tqdm
+
 torchvision
+
 h5py
+
 scipy
 
 This respository contains:
