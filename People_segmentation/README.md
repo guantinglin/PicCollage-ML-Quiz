@@ -5,7 +5,7 @@ This model demonstrated the performance of ShelfNets on the people segmantation 
 ## Setup
 Run this command
 ```
-pythons setup.py install
+python3 setup.py install
 ```
 
 ## Download the pre-trained weights 
